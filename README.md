@@ -1,2 +1,1 @@
-# Python_Coding_Sample
-# Basic calculation functions written with Python
+# Python_Coding_Sample - Basic calculation functions written with Python
